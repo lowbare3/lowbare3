@@ -33,6 +33,7 @@ Hi, I'm **Mohd Kaif** — a tech enthusiast who loves building and experimenting
 
 ### 🛠 Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,29 +45,3 @@ Hi, I'm **Mohd Kaif** — a tech enthusiast who loves building and experimenting
 </div>
 
 ---
-
-### ⚙️ My `.gitconfig` :
-```ini
-[user]
-    name = Mohd Kaif
-    email = mohdkaif0711103@gmail.com
-
-[core]
-    editor = code --wait
-    autocrlf = input
-
-[color]
-    ui = auto
-
-[alias]
-    st = status
-    co = checkout
-    br = branch
-    cm = commit
-    lg = log --oneline --graph --decorate --all
-
-[push]
-    default = simple
-
-[pull]
-    rebase = false
